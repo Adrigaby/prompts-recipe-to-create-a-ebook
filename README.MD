@@ -1,7 +1,7 @@
 
 <p align="center">
 <img 
-    src="./assets/princesaImagem1.jpg"
+    src=".github/assets/princesaImagem1.jpg"
     width="400"  
 />
 </p>
